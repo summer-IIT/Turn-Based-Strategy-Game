@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3e5257f3ee06b347b7b76eb1612caeb
+timeCreated: 1502042997
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TankSpawnRed: {fileID: 1401237883824596, guid: 5de11097df3f540c79944bb7b5c32014,
+      type: 2}
+  - TankSpawnBlue: {fileID: 1401237883824596, guid: d72b379f220e44a08a290246df4e6650,
+      type: 2}
+  - TroopSpawnRed: {fileID: 1827911530926224, guid: 5120aaa0db1549049b9ceb446b5143ce,
+      type: 2}
+  - TroopSpawnBlue: {fileID: 1827911530926224, guid: 6d74e08179d0174469ac21ed53712d2c,
+      type: 2}
+  - TankButt: {instanceID: 0}
+  - TroopButt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
